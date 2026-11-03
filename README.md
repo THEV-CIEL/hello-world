@@ -1,2 +1,3 @@
 # hello-world
-ce reférenciel est destiner a m'exercer
+ce révérenciel est destiner a m'exercer
+une personne calme qui aime code mais pas la thèorie
